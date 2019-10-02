@@ -1,1 +1,3 @@
 # Quantum_Programs
+
+This repository is currently being updated to have Q# Jupyter Notebook Modules that can run within Jupyter Notebooks without drivers and in an easier to learn way. Although Q# is a great language for implementing quantum algorithms, it can be very confusing on the first start. Therefore, this repository seeks to provide new students interested in quantum computing programing excercises that can test knowledge and understanding of common quantum algorithms, such as Grover's, Shor's, Simon's Algoirthms along with key connections to information theory with algorithms like Quantum Teleportation. 
